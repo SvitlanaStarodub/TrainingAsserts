@@ -1,0 +1,28 @@
+C:\Users\Sofiia_Tarashchuk\Desktop\New folder\NUnitLectureExapmles\AssertExamples\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Sofiia_Tarashchuk\Desktop\New folder\NUnitLectureExapmles\AssertExamples\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Sofiia_Tarashchuk\Desktop\New folder\NUnitLectureExapmles\AssertExamples\bin\Debug\nunit.engine.dll
+C:\Users\Sofiia_Tarashchuk\Desktop\New folder\NUnitLectureExapmles\AssertExamples\bin\Debug\nunit.engine.api.dll
+C:\Users\Sofiia_Tarashchuk\Desktop\New folder\NUnitLectureExapmles\AssertExamples\bin\Debug\Mono.Cecil.dll
+C:\Users\Sofiia_Tarashchuk\Desktop\New folder\NUnitLectureExapmles\AssertExamples\bin\Debug\AssertExamples.dll
+C:\Users\Sofiia_Tarashchuk\Desktop\New folder\NUnitLectureExapmles\AssertExamples\bin\Debug\AssertExamples.pdb
+C:\Users\Sofiia_Tarashchuk\Desktop\New folder\NUnitLectureExapmles\AssertExamples\bin\Debug\nunit.framework.dll
+C:\Users\Sofiia_Tarashchuk\Desktop\New folder\NUnitLectureExapmles\AssertExamples\bin\Debug\nunit.framework.pdb
+C:\Users\Sofiia_Tarashchuk\Desktop\New folder\NUnitLectureExapmles\AssertExamples\bin\Debug\nunit.framework.xml
+C:\Users\Sofiia_Tarashchuk\Desktop\New folder\NUnitLectureExapmles\AssertExamples\obj\Debug\AssertExamples.csprojResolveAssemblyReference.cache
+C:\Users\Sofiia_Tarashchuk\Desktop\New folder\NUnitLectureExapmles\AssertExamples\obj\Debug\AssertExamples.csproj.CoreCompileInputs.cache
+C:\Users\Sofiia_Tarashchuk\Desktop\New folder\NUnitLectureExapmles\AssertExamples\obj\Debug\AssertExamples.csproj.CopyComplete
+C:\Users\Sofiia_Tarashchuk\Desktop\New folder\NUnitLectureExapmles\AssertExamples\obj\Debug\AssertExamples.dll
+C:\Users\Sofiia_Tarashchuk\Desktop\New folder\NUnitLectureExapmles\AssertExamples\obj\Debug\AssertExamples.pdb
+D:\MentoringProgram2018\NUnitLectureExapmles\AssertExamples\bin\Debug\NUnit3.TestAdapter.dll
+D:\MentoringProgram2018\NUnitLectureExapmles\AssertExamples\bin\Debug\NUnit3.TestAdapter.pdb
+D:\MentoringProgram2018\NUnitLectureExapmles\AssertExamples\bin\Debug\nunit.engine.dll
+D:\MentoringProgram2018\NUnitLectureExapmles\AssertExamples\bin\Debug\nunit.engine.api.dll
+D:\MentoringProgram2018\NUnitLectureExapmles\AssertExamples\bin\Debug\Mono.Cecil.dll
+D:\MentoringProgram2018\NUnitLectureExapmles\AssertExamples\bin\Debug\AssertExamples.dll
+D:\MentoringProgram2018\NUnitLectureExapmles\AssertExamples\bin\Debug\AssertExamples.pdb
+D:\MentoringProgram2018\NUnitLectureExapmles\AssertExamples\bin\Debug\nunit.framework.dll
+D:\MentoringProgram2018\NUnitLectureExapmles\AssertExamples\bin\Debug\nunit.framework.pdb
+D:\MentoringProgram2018\NUnitLectureExapmles\AssertExamples\bin\Debug\nunit.framework.xml
+D:\MentoringProgram2018\NUnitLectureExapmles\AssertExamples\obj\Debug\AssertExamples.csprojResolveAssemblyReference.cache
+D:\MentoringProgram2018\NUnitLectureExapmles\AssertExamples\obj\Debug\AssertExamples.dll
+D:\MentoringProgram2018\NUnitLectureExapmles\AssertExamples\obj\Debug\AssertExamples.pdb

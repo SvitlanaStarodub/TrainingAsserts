@@ -1,0 +1,37 @@
+C:\Users\alkma_000\Desktop\nunit lecture\NUnitLectureExapmles\Calculator\bin\Debug\Calculator.exe
+C:\Users\alkma_000\Desktop\nunit lecture\NUnitLectureExapmles\Calculator\bin\Debug\Calculator.pdb
+C:\Users\alkma_000\Desktop\nunit lecture\NUnitLectureExapmles\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\alkma_000\Desktop\nunit lecture\NUnitLectureExapmles\Calculator\obj\Debug\Calculator.exe
+C:\Users\alkma_000\Desktop\nunit lecture\NUnitLectureExapmles\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Mykyta_Kurchenkov@epam.com\Desktop\nunit lecture\NUnitLectureExapmles\Calculator\bin\Debug\Calculator.exe
+C:\Users\Mykyta_Kurchenkov@epam.com\Desktop\nunit lecture\NUnitLectureExapmles\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Mykyta_Kurchenkov@epam.com\Desktop\nunit lecture\NUnitLectureExapmles\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Mykyta_Kurchenkov@epam.com\Desktop\nunit lecture\NUnitLectureExapmles\Calculator\obj\Debug\Calculator.exe
+C:\Users\Mykyta_Kurchenkov@epam.com\Desktop\nunit lecture\NUnitLectureExapmles\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Mykyta_Kurchenkov@epam.com\Desktop\nunit lecture\mail\NUnitLectureExapmles\Calculator\obj\Debug\Calculator.exe
+C:\Users\Mykyta_Kurchenkov@epam.com\Desktop\nunit lecture\mail\NUnitLectureExapmles\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Mykyta_Kurchenkov@epam.com\Desktop\nunit lecture\mail\NUnitLectureExapmles\Calculator\bin\Debug\Calculator.exe
+C:\Users\Mykyta_Kurchenkov@epam.com\Desktop\nunit lecture\mail\NUnitLectureExapmles\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Mykyta_Kurchenkov@epam.com\Desktop\nunit lecture\mail\NUnitLectureExapmles\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Hanna_makarchuk\Documents\NUnitLectureExapmles\NUnitLectureExapmles\Calculator\bin\Debug\Calculator.exe
+C:\Users\Hanna_makarchuk\Documents\NUnitLectureExapmles\NUnitLectureExapmles\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Hanna_makarchuk\Documents\NUnitLectureExapmles\NUnitLectureExapmles\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Hanna_makarchuk\Documents\NUnitLectureExapmles\NUnitLectureExapmles\Calculator\obj\Debug\Calculator.exe
+C:\Users\Hanna_makarchuk\Documents\NUnitLectureExapmles\NUnitLectureExapmles\Calculator\obj\Debug\Calculator.pdb
+C:\Users\София и Дмитрий\Desktop\nunit lecture\NUnitLectureExapmles\Calculator\bin\Debug\Calculator.exe
+C:\Users\София и Дмитрий\Desktop\nunit lecture\NUnitLectureExapmles\Calculator\bin\Debug\Calculator.pdb
+C:\Users\София и Дмитрий\Desktop\nunit lecture\NUnitLectureExapmles\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\София и Дмитрий\Desktop\nunit lecture\NUnitLectureExapmles\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\София и Дмитрий\Desktop\nunit lecture\NUnitLectureExapmles\Calculator\obj\Debug\Calculator.exe
+C:\Users\София и Дмитрий\Desktop\nunit lecture\NUnitLectureExapmles\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Sofiia_Tarashchuk\Desktop\NUnitLectureExapmles\Calculator\bin\Debug\Calculator.exe
+C:\Users\Sofiia_Tarashchuk\Desktop\NUnitLectureExapmles\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Sofiia_Tarashchuk\Desktop\NUnitLectureExapmles\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Sofiia_Tarashchuk\Desktop\NUnitLectureExapmles\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Sofiia_Tarashchuk\Desktop\NUnitLectureExapmles\Calculator\obj\Debug\Calculator.exe
+C:\Users\Sofiia_Tarashchuk\Desktop\NUnitLectureExapmles\Calculator\obj\Debug\Calculator.pdb
+D:\MentoringProgram2018\NUnitLectureExapmles\Calculator\bin\Debug\Calculator.exe
+D:\MentoringProgram2018\NUnitLectureExapmles\Calculator\bin\Debug\Calculator.pdb
+D:\MentoringProgram2018\NUnitLectureExapmles\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\MentoringProgram2018\NUnitLectureExapmles\Calculator\obj\Debug\Calculator.exe
+D:\MentoringProgram2018\NUnitLectureExapmles\Calculator\obj\Debug\Calculator.pdb

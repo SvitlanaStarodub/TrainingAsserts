@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\alkma_000\Desktop\nunit lecture\NUnitLectureExapmles\CalculatorTests\bin\Debug\CalculatorTests.dll" total="17" errors="0" failures="2" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-12-19" time="15:12:53">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8009" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Users\alkma_000\Desktop\nunit lecture\NUnitLectureExapmles\CalculatorTests\bin\Debug" machine-name="NICK-PC" user="alkma_000" user-domain="NICK-PC" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\alkma_000\Desktop\nunit lecture\NUnitLectureExapmles\CalculatorTests\bin\Debug\CalculatorTests.dll" executed="True" result="Failure" success="False" time="0.947" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="CalculatorTests" executed="True" result="Failure" success="False" time="0.920" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="CalculatorTests" executed="True" result="Failure" success="False" time="0.914" asserts="0">
+            <results>
+              <test-case name="CalculatorTests.CalculatorTests.AdditionBasicStoryClassicModelTest" executed="True" result="Success" success="True" time="0.338" asserts="1" />
+              <test-case name="CalculatorTests.CalculatorTests.AdditionBasicStoryConstraintBasedTest" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="CalculatorTests.CalculatorTests.AdditionMaxValuesTest" executed="True" result="Success" success="True" time="0.003" asserts="1" />
+              <test-case name="CalculatorTests.CalculatorTests.AdditionMinValuesTest" executed="True" result="Success" success="True" time="0.006" asserts="1" />
+              <test-case name="CalculatorTests.CalculatorTests.AdditionXLessThenMinValue" executed="True" result="Success" success="True" time="0.007" asserts="2" />
+              <test-case name="CalculatorTests.CalculatorTests.AdditionXMoreThenMaxValue" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+              <test-case name="CalculatorTests.CalculatorTests.AdditionYLessThenMinValue" executed="True" result="Success" success="True" time="0.002" asserts="2" />
+              <test-case name="CalculatorTests.CalculatorTests.AdditionYMoreThenMaxValue" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+              <test-case name="CalculatorTests.CalculatorTests.DivisionDivideByZeroExceptionConstraintBasedTest" executed="True" result="Success" success="True" time="0.026" asserts="1" />
+              <test-case name="CalculatorTests.CalculatorTests.MultiplicationBasicStoryClassicModelTest" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+              <test-case name="CalculatorTests.CalculatorTests.MultiplicationBasicStoryConstraintBasedTest" executed="True" result="Success" success="True" time="0.003" asserts="1" />
+              <test-case name="CalculatorTests.CalculatorTests.MultiplicationMaxValuesTest" executed="True" result="Failure" success="False" time="0.031" asserts="1">
+                <failure>
+                  <message><![CDATA[  Result of Multiplication operation is invalid. Actual : 1874919424, Expected: 10000000000000000 
+  Expected: 10000000000000000
+  But was:  1874919424
+]]></message>
+                  <stack-trace><![CDATA[at CalculatorTests.CalculatorTests.MultiplicationMaxValuesTest() in c:\Users\alkma_000\Desktop\nunit lecture\NUnitLectureExapmles\CalculatorTests\CalculatorTests.cs:line 197
+]]></stack-trace>
+                </failure>
+              </test-case>
+              <test-case name="CalculatorTests.CalculatorTests.MultiplicationMinValuesTest" executed="True" result="Failure" success="False" time="0.002" asserts="1">
+                <failure>
+                  <message><![CDATA[  Result of Multiplication operation is invalid. Actual : 1874919424, Expected: -10000000000000000 
+  Expected: -10000000000000000
+  But was:  1874919424
+]]></message>
+                  <stack-trace><![CDATA[at CalculatorTests.CalculatorTests.MultiplicationMinValuesTest() in c:\Users\alkma_000\Desktop\nunit lecture\NUnitLectureExapmles\CalculatorTests\CalculatorTests.cs:line 213
+]]></stack-trace>
+                </failure>
+              </test-case>
+              <test-case name="CalculatorTests.CalculatorTests.MultiplicationXLessThenMinValue" executed="True" result="Success" success="True" time="0.008" asserts="0" />
+              <test-case name="CalculatorTests.CalculatorTests.MultiplicationXMoreThenMaxValue" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+              <test-case name="CalculatorTests.CalculatorTests.MultiplicationYLessThenMinValue" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+              <test-case name="CalculatorTests.CalculatorTests.MultiplicationYMoreThenMaxValue" executed="True" result="Success" success="True" time="0.005" asserts="0" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

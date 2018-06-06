@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1018]C:\Users\alkma_000\Desktop\nunit lecture\NUnitLectureExapmles\CalculatorTests\bin\Debug\CalculatorTests.dll</TopNode>
+  <SelectedNode>[0-1014]CalculatorTests.CalculatorTests.MultiplicationYLessThenMinValue</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1018]C:\Users\alkma_000\Desktop\nunit lecture\NUnitLectureExapmles\CalculatorTests\bin\Debug\CalculatorTests.dll" Expanded="true" />
+    <Node UniqueName="[0-1019]CalculatorTests" Expanded="true" />
+    <Node UniqueName="[0-1000]CalculatorTests.CalculatorTests" Expanded="true" />
+  </Nodes>
+</VisualState>

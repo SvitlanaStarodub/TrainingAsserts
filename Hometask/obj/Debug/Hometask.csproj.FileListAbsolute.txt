@@ -1,0 +1,36 @@
+C:\Users\alkma_000\Desktop\nunit lecture\NUnitLectureExapmles\Hometask\bin\Debug\Hometask.exe
+C:\Users\alkma_000\Desktop\nunit lecture\NUnitLectureExapmles\Hometask\bin\Debug\Hometask.pdb
+C:\Users\alkma_000\Desktop\nunit lecture\NUnitLectureExapmles\Hometask\obj\Debug\Hometask.exe
+C:\Users\alkma_000\Desktop\nunit lecture\NUnitLectureExapmles\Hometask\obj\Debug\Hometask.pdb
+C:\Users\alkma_000\Desktop\nunit lecture\NUnitLectureExapmles\Hometask\obj\Debug\Hometask.csprojResolveAssemblyReference.cache
+C:\Users\Mykyta_Kurchenkov@epam.com\Desktop\nunit lecture\NUnitLectureExapmles\Hometask\obj\Debug\Hometask.exe
+C:\Users\Mykyta_Kurchenkov@epam.com\Desktop\nunit lecture\NUnitLectureExapmles\Hometask\obj\Debug\Hometask.pdb
+C:\Users\Mykyta_Kurchenkov@epam.com\Desktop\nunit lecture\NUnitLectureExapmles\Hometask\bin\Debug\Hometask.exe
+C:\Users\Mykyta_Kurchenkov@epam.com\Desktop\nunit lecture\NUnitLectureExapmles\Hometask\bin\Debug\Hometask.pdb
+C:\Users\Mykyta_Kurchenkov@epam.com\Desktop\nunit lecture\NUnitLectureExapmles\Hometask\obj\Debug\Hometask.csprojResolveAssemblyReference.cache
+C:\Users\Mykyta_Kurchenkov@epam.com\Desktop\nunit lecture\mail\NUnitLectureExapmles\Hometask\obj\Debug\Hometask.exe
+C:\Users\Mykyta_Kurchenkov@epam.com\Desktop\nunit lecture\mail\NUnitLectureExapmles\Hometask\obj\Debug\Hometask.pdb
+C:\Users\Mykyta_Kurchenkov@epam.com\Desktop\nunit lecture\mail\NUnitLectureExapmles\Hometask\bin\Debug\Hometask.exe
+C:\Users\Mykyta_Kurchenkov@epam.com\Desktop\nunit lecture\mail\NUnitLectureExapmles\Hometask\bin\Debug\Hometask.pdb
+C:\Users\Mykyta_Kurchenkov@epam.com\Desktop\nunit lecture\mail\NUnitLectureExapmles\Hometask\obj\Debug\Hometask.csprojResolveAssemblyReference.cache
+C:\Users\Hanna_makarchuk\Documents\NUnitLectureExapmles\NUnitLectureExapmles\Hometask\bin\Debug\Hometask.exe
+C:\Users\Hanna_makarchuk\Documents\NUnitLectureExapmles\NUnitLectureExapmles\Hometask\bin\Debug\Hometask.pdb
+C:\Users\Hanna_makarchuk\Documents\NUnitLectureExapmles\NUnitLectureExapmles\Hometask\obj\Debug\Hometask.exe
+C:\Users\Hanna_makarchuk\Documents\NUnitLectureExapmles\NUnitLectureExapmles\Hometask\obj\Debug\Hometask.pdb
+C:\Users\София и Дмитрий\Desktop\nunit lecture\NUnitLectureExapmles\Hometask\bin\Debug\Hometask.exe
+C:\Users\София и Дмитрий\Desktop\nunit lecture\NUnitLectureExapmles\Hometask\bin\Debug\Hometask.pdb
+C:\Users\София и Дмитрий\Desktop\nunit lecture\NUnitLectureExapmles\Hometask\obj\Debug\Hometask.csprojResolveAssemblyReference.cache
+C:\Users\София и Дмитрий\Desktop\nunit lecture\NUnitLectureExapmles\Hometask\obj\Debug\Hometask.csproj.CoreCompileInputs.cache
+C:\Users\София и Дмитрий\Desktop\nunit lecture\NUnitLectureExapmles\Hometask\obj\Debug\Hometask.exe
+C:\Users\София и Дмитрий\Desktop\nunit lecture\NUnitLectureExapmles\Hometask\obj\Debug\Hometask.pdb
+C:\Users\Sofiia_Tarashchuk\Desktop\NUnitLectureExapmles\Hometask\bin\Debug\Hometask.exe
+C:\Users\Sofiia_Tarashchuk\Desktop\NUnitLectureExapmles\Hometask\bin\Debug\Hometask.pdb
+C:\Users\Sofiia_Tarashchuk\Desktop\NUnitLectureExapmles\Hometask\obj\Debug\Hometask.csprojResolveAssemblyReference.cache
+C:\Users\Sofiia_Tarashchuk\Desktop\NUnitLectureExapmles\Hometask\obj\Debug\Hometask.csproj.CoreCompileInputs.cache
+C:\Users\Sofiia_Tarashchuk\Desktop\NUnitLectureExapmles\Hometask\obj\Debug\Hometask.exe
+C:\Users\Sofiia_Tarashchuk\Desktop\NUnitLectureExapmles\Hometask\obj\Debug\Hometask.pdb
+D:\MentoringProgram2018\NUnitLectureExapmles\Hometask\obj\Debug\Hometask.exe
+D:\MentoringProgram2018\NUnitLectureExapmles\Hometask\obj\Debug\Hometask.pdb
+D:\MentoringProgram2018\NUnitLectureExapmles\Hometask\bin\Debug\Hometask.exe
+D:\MentoringProgram2018\NUnitLectureExapmles\Hometask\bin\Debug\Hometask.pdb
+D:\MentoringProgram2018\NUnitLectureExapmles\Hometask\obj\Debug\Hometask.csprojResolveAssemblyReference.cache
